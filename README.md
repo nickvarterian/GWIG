@@ -7,13 +7,11 @@ Code samples for **Go Where I Go (GWIG)**. **GWIG** is a web app that allows a u
 
 ## Technology
 * Bootstrap
-* jQuery
 * AngularJS
+* jQuery
+* AJAX
 * C#
-* SQL
 * ASP.Net
 * WebApi 2.0
-* TFS
-* AJAX
 * Google Places and Yelp API's
 * Back-end includes SQL Server 2014 using T-SQL stored procedures
