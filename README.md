@@ -1,4 +1,4 @@
-GWIG
+Go Where I Go (GWIG)
 ======
 Code samples for **Go Where I Go (GWIG)**. **GWIG** is a web app that allows a user to find the best places across a spectrum of categories, curated by your friends and local experts.
 
