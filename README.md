@@ -1,6 +1,6 @@
 Go Where I Go (GWIG)
 ======
-Code samples for **GWIG**. **GWIG** a web app that allows a user to find the best places across a spectrum of categories, curated by your friends and local experts.
+Code samples for **GWIG**. GWIG a web app that allows a user to find the best places across a spectrum of categories, curated by your friends and local experts.
 
 ## Domain
 [http://gwig-production.us-west-2.elasticbeanstalk.com/home](http://gwig-production.us-west-2.elasticbeanstalk.com/home) (Old Link)
